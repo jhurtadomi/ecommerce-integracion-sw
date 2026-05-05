@@ -87,6 +87,8 @@ Cliente → Servicio de Pedidos → RabbitMQ → Servicio de Inventario
 Circuit Breaker
 (Resilience4j)
 
+![Diagrama de Arquitectura](Arq.png)
+
 ## Servicios
 | Servicio | Puerto | Descripción |
 |---|---|---|
